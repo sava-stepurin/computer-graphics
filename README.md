@@ -1,1 +1,2 @@
-# computer-graphics
+# Computer Graphics
+Домашние задания по курсу Компьютерной графики в МФТИ
